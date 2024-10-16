@@ -1,0 +1,7 @@
+VITE_apiKey=AIzaSyC6KLzTwgqitp9x29veFX5QfEfWac-Ki64b
+VITE_authDomain=user-email-password-24983.firebaseapp.comb
+VITE_projectId=user-email-password-24983b
+VITE_storageBucket=user-email-password-24983.appspot.comb
+VITE_messagingSenderId=327949590242b
+VITE_appId=1:327949590242:web:381036ccb01c215c1c88bb
+
